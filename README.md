@@ -25,5 +25,5 @@ I am a flutter developer with a strong desire to contribute to team success thro
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=amirrezaghabeli
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amirrezaghabeli)](https://git.io/streak-stats)
 
