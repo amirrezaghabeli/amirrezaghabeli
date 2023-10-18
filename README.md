@@ -7,7 +7,7 @@ Flutter developer
 I am a flutter developer with a strong desire to contribute to team success through hard work, attention to detail and excellent organizational skills. Also, I am interested in learning and growing in my carrer.
 
 *   🌍  I'm based in Sarab
-*   ✉️  You can contact me at [a.ghabeli@ravanertebat.com](mailto:a.ghabeli@ravanertebat.com)
+*   ✉️  You can contact me at [ghabeli74@gmail.com](mailto:ghabeli74@gmail.com)
 
 ### Skills 
 <p align="left">
