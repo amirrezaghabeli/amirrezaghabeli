@@ -7,7 +7,7 @@ Flutter developer
 
 I am a flutter developer with a strong desire to contribute to team success through hard work, attention to detail and excellent organizational skills. Also, I am interested in learning and growing in my carrer.
 
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="www.linkedin.com/in/amirreza-ghabeli" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p><a href="https://github.com/amirrezaghabeli" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="www.linkedin.com/in/amirreza-ghabeli" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ### Skills 
 <p align="left">
