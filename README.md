@@ -17,12 +17,7 @@ I am a flutter developer with a strong desire to contribute to team success thro
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-[![wakatime](https://wakatime.com/badge/user/2e85e45b-91f8-4a33-8974-ba0dffa6c26c.svg)](https://wakatime.com/@2e85e45b-91f8-4a33-8974-ba0dffa6c26c)<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=amirrezaghabeli"
-    alt="gargakshit"
-  />
-</p>
+[![wakatime](https://wakatime.com/badge/user/2e85e45b-91f8-4a33-8974-ba0dffa6c26c.svg)](https://wakatime.com/@2e85e45b-91f8-4a33-8974-ba0dffa6c26c)   <img src="https://komarev.com/ghpvc/?username=adicomdotir" alt="amirrezaghabeli"/>
                   
 
 
