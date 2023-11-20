@@ -23,8 +23,10 @@ I am a flutter developer with a strong desire to contribute to team success thro
 
 ### :fire: My Stats :
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amirrezaghabeli&show_icons=true&theme=gotham" alt="amirrezaghabeli" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirrezaghabeli&theme=apprentice)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirrezaghabeli)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirrezaghabeli)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirrezaghabeli&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirrezaghabeli&theme=apprentice)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirrezaghabeli&theme=apprentice)   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirrezaghabeli&theme=apprentice&utcOffset=8)
+
 
